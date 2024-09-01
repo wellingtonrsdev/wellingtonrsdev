@@ -1,4 +1,4 @@
-# Oi, Eu sou o Wellington! 👋
+# 🙋‍♂️ Oi, Eu sou o Wellington! 👋
 
 - ✨ Desenvolvedor back-end apaixonado por tecnologia e atualmente estou cursando Ánalise e Desenvolvimento de Sistemas.
 
